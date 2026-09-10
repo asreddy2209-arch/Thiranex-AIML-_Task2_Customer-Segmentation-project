@@ -1,0 +1,13 @@
+Customer Segmentation (synthetic)
+Customers: 900
+Selected clusters (best silhouette): 4
+Best silhouette: 0.519
+Highest average spending: High-Value Customers
+Highest purchase frequency: High-Value Customers
+
+Segment statistics:
+ Cluster       Age  Annual_Income  Total_Purchases  Total_Spending  Average_Order_Value  Purchase_Frequency    Recency  Online_Orders              Segment
+       0 37.981928   55775.585723        10.701807     7957.822560           778.559127           10.701807  62.018072       3.060241    Regular Customers
+       1 37.946667   85201.551689        21.400000    17918.015644           842.439778           21.400000  20.666667       7.364444 High-Value Customers
+       2 38.894737   63429.052932         5.390977     9191.901654          1908.947444            5.390977  84.924812       2.706767 Occasional Customers
+       3 37.776190   34988.803714         4.666667     2562.244952           647.413286            4.666667 108.976190       0.957143  Low-Value Customers

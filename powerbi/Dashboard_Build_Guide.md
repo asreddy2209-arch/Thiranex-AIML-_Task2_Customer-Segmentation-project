@@ -1,0 +1,2 @@
+# Dashboard build guide
+Import `customers_segmented_powerbi.csv` and `segment_summary_powerbi.csv`; apply the theme and measures. Use cards for customer count, average spending, income, and frequency. Add Segment/Customer Count donut, Segment/Total Customer Spending bar, Location/Customer Count bar, Gender donut, and an Annual Income vs Total Spending scatter with Segment as legend. Add Segment, Gender, and Location slicers.
